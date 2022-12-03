@@ -108,7 +108,7 @@ int main(int argc, char * argv[])
    {
     
 
-    print_build_info("sum_of_two_numbers");
+    print_build_info("Addition_of_two_numbers");
     
     a = atoi(argv[1]);
     b = atoi(argv[2]);
